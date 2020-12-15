@@ -26,3 +26,8 @@ Comandos
 git status - lista o estado do git no momento   
 git add [nome do arquivo] - adiciona o arquivo para o git
 
+git commit - Git cria uma imagem do pacote de alteraçãoes
+
+git commit -m "mensagagem de envio "
+
+git log - apresenta os logs de commit
