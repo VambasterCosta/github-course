@@ -47,3 +47,5 @@ git diff --name-only -  mostra apenas os nomes dos aquivos que forma modificados
 
 
  git remote - apresenta o repositorio remoto que esta vinculado o projeto
+
+ git clone [repositoiro remoto] - clona o projeto remoto para o diretório local

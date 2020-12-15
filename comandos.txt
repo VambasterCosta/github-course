@@ -1,0 +1,42 @@
+git status
+cd Desktop
+de GIT
+cd GIT
+dir
+cd git-course
+cls
+git status
+dit add *
+git add *
+git commit -am "enviando todas as modifica‡äes do Readme"
+git log
+cls
+git remote
+git push
+git status
+git push -u origin main
+cd.,
+cd..
+dir
+md git-curse-clone
+dir
+rm git-curse-clone
+rm -r git-curse-clone
+del git-curse-clone
+s
+dir
+rd /s git-curse-clone
+s
+dir
+md git-course-clone
+cd git-course-clone
+g clone https://github.com/VambasterCosta/github-course.git
+git clone https://github.com/VambasterCosta/github-course.git
+dir
+git status
+cd..
+cd git-course
+git status
+doskey / history > C:\Users\Alemanha\Desktop\GIT\comandos.txt
+git status
+doskey /history > C:\Users\Alemanha\Desktop\GIT\git-course\comandos.txt
