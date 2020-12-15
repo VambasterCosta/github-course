@@ -1,0 +1,47 @@
+cd Desktop
+cd GIT
+cls
+git config --global user.name "Vambaster Costa"
+ git config --global user.email "vambaster.dacosta@hotmail.com"
+git config --list
+ md git-course
+ls
+dir
+cd git-course
+cls
+git init
+dir
+dir -ls
+dir
+cd .git
+dir
+cd..
+dir
+git status
+ git add Readme.md
+git status
+ git add Readme.md
+git status
+git commit -m "Add Readme"
+git status
+git log
+ git status
+git add all
+git add *
+git status
+git commit -m "modificando o readme"
+git status
+git log
+git shortlog
+git shortlog --help
+git log --graf
+git log --graph
+doskey / history
+doskey / history >historico_comandos.txt
+doskey / history > historico_comandos.txt
+doskey / history> historico_comandos.txt
+doskey / history > historico_comandos.txt
+doskey / history > C:\Users\Alemanha\Desktop\GIT\comandos.txt
+doskey / history 
+doskey /history 
+doskey /history > historico_comandos.txt

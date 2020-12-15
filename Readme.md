@@ -31,3 +31,9 @@ git commit - Git cria uma imagem do pacote de alteraçãoes
 git commit -m "mensagagem de envio "
 
 git log - apresenta os logs de commit
+
+git show [hash] -  apresenta detalhes de mudanças do commit escolhido
+
+git diff - mostra as modificações do arquivo atual do ultimo commit
+
+git diff --name-only -  mostra apenas os nomes dos aquivos que forma modificados
