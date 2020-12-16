@@ -43,7 +43,7 @@ git diff --name-only -  mostra apenas os nomes dos aquivos que forma modificados
  git reset HEAD - retorna para o estagio anteriro a adição permitindo executar o arquivo acima.
 
 
- git reset --soft --mixed --hard [hash] - (reverte para o comit escolhido mas mantem as modificalções, para o estagio stage) (reverte para o comit escolhido mas mantem as modificalções, para o estagio modified) (Reverte tudo, bom pra fazer numa sexta feira no  fim do expediente."segura na mão de Deus e vai")
+ git reset --soft --mixed --hard [hash] - (reverte para o commit escolhido mas mantém as modificações, para o estágio 'stage') (reverte para o commit escolhido mas mantém as modificações, para o estágio 'modified') (Reverte tudo, 'bom pra fazer numa sexta-feira no  fim do expediente'. "Segura na mão de Deus e vai")
 
 
  git remote - apresenta o repositorio remoto que esta vinculado o projeto
