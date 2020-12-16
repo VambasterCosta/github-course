@@ -45,7 +45,8 @@ git diff --name-only -  mostra apenas os nomes dos aquivos que forma modificados
 
  git reset --soft --mixed --hard [hash] - (reverte para o commit escolhido mas mantém as modificações, para o estágio 'stage') (reverte para o commit escolhido mas mantém as modificações, para o estágio 'modified') (Reverte tudo, 'bom pra fazer numa sexta-feira no  fim do expediente'. "Segura na mão de Deus e vai")
 
+git remote add [nome do repositorio] [url repositorio remoto]
 
  git remote - apresenta o repositorio remoto que esta vinculado o projeto
 
- git clone [repositoiro remoto] - clona o projeto remoto para o diretório local
+ git clone [repositoiro remoto] - clona o projeto remoto para o diretório local 
